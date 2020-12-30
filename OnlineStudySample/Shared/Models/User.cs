@@ -1,4 +1,4 @@
-﻿namespace OnlineStudySample.Server.Models
+﻿namespace OnlineStudySample.Shared.Models
 {
     public class User
     {

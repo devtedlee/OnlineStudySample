@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.SignalR;
-using OnlineStudySample.Server.Models;
+using OnlineStudySample.Shared.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
